@@ -79,6 +79,12 @@ Também foi realizada uma comparação entre estudantes de escolas públicas e p
 
 O projeto foi desenvolvido com o objetivo de praticar análise exploratória de dados e transformar uma grande base de dados em informações mais fáceis de interpretar.
 
+## 👨‍💻 Autor
+
+**Yarlei Cavalcante**
+
+Projeto desenvolvido para portfólio de Análise de Dados.
+
 ## 📁 Estrutura do projeto
 
 ```text
