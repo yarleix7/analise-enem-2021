@@ -71,6 +71,13 @@ O projeto também realiza uma comparação entre estudantes de escolas públicas
 Por fim, os resultados de Matemática e Redação são comparados para observar como os estados se comportam nas duas áreas avaliadas.
 
 ---
+## 💡 Conclusão
+
+A análise mostra diferenças nas médias de desempenho entre os estados brasileiros nas provas de Matemática e Redação.
+
+Também foi realizada uma comparação entre estudantes de escolas públicas e privadas, permitindo observar diferenças nas médias de desempenho entre os dois grupos.
+
+O projeto foi desenvolvido com o objetivo de praticar análise exploratória de dados e transformar uma grande base de dados em informações mais fáceis de interpretar.
 
 ## 📁 Estrutura do projeto
 
@@ -81,11 +88,3 @@ analise-enem-2021/
 ├── analise_enem.xlsx
 ├── README.md
 └── .gitignore
-
-💡 Conclusão
-
-A análise mostra diferenças nas médias de desempenho entre os estados brasileiros nas provas de Matemática e Redação.
-
-Também foi realizada uma comparação entre estudantes de escolas públicas e privadas, permitindo observar diferenças nas médias de desempenho entre os dois grupos.
-
-O projeto foi desenvolvido com o objetivo de praticar análise exploratória de dados e transformar uma grande base de dados em informações mais fáceis de interpretar.
