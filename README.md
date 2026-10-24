@@ -87,10 +87,14 @@ Projeto desenvolvido para portfólio de Análise de Dados.
 
 ## 📁 Estrutura do projeto
 
-```text
+
 analise-enem-2021/
 │
 ├── analise_enem.ipynb
 ├── analise_enem.xlsx
 ├── README.md
 └── .gitignore
+
+
+[![Estatísticas do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=yarleix7&repo=analise-enem-2021&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+
