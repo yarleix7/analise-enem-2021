@@ -98,3 +98,4 @@ analise-enem-2021/
 
 [![Estatísticas do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=yarleix7&repo=analise-enem-2021&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
+
